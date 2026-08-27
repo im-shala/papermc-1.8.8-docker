@@ -36,9 +36,8 @@ cd papermc-1.8.8-docker
 ```bash
 docker compose build 
 ```
-This downloads all the dependencies and the server executable
 
-3.Start the server
+3. Start the server
 
 ```bash
 docker compose up -d 
