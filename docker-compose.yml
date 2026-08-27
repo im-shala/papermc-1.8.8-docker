@@ -1,0 +1,15 @@
+services:
+  app:
+    build: .
+    image: minecraft-server:1.8.8
+    ports: 
+      - 25565:25565
+    
+    working_dir: /app/data
+    volumes:
+      - ./server:/app/data
+    tty: true
+    stdin_open: true
+    restart: unless-stopped
+    stop_grace_period: 1m
+    
