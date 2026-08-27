@@ -1,6 +1,6 @@
 # Minecraft 1.8.8 Paperspigot Server Docker
 
-A Docker Compose setup for running a Paper 1.8.8 Minecraft server in a container environment.
+A Docker Compose setup for running a Paper 1.8.8 (1.8.9 compatible) Minecraft server in a container environment.
 
 ## About
 
