@@ -4,7 +4,7 @@ A Docker Compose setup for running a Paperspigot 1.8.8 Minecraft server in a con
 
 ## About
 
-This project packages a Paperspigot Minecraft server into a Docker image, providing an easy way to recreate the same server environment on another machine.
+This project packages a Paper Minecraft server into a Docker image, providing an easy way to recreate the same server environment on another machine.
 
 The server binary is downloaded automatically during the image build process.
 
