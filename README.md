@@ -46,5 +46,5 @@ docker compose up -d
 4. To stop the server, use
 
 ```bash
-docker compose down 
+docker compose stop 
 ```
